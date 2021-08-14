@@ -10,6 +10,6 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
 # defaults delete com.apple.desktopservices DSDontWriteNetworkStores
 
 
-# 映射iCloud置服务
+# 映射iCloud配置服务
 ln -s /Users/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/wireshark /Users/alanhe/.config/wireshark
 
