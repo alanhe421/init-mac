@@ -11,5 +11,8 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
 
 
 # 映射iCloud配置服务
-ln -s /Users/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/wireshark /Users/alanhe/.config/wireshark
+# wireshark配置
+ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/wireshark ~/.config/wireshark
+# snipaste配置
+ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/snipaste ~/.snipaste
 
