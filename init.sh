@@ -3,6 +3,9 @@
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 
+## 安装软件
+brew install openconnect
+
 
 # disable  .DS_Store
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
