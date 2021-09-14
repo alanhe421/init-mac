@@ -5,6 +5,7 @@ brew install --cask font-hack-nerd-font
 
 # 安装软件
 brew install openconnect
+brew install qlimagesize
 
 
 ## disable  .DS_Store
