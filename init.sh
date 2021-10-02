@@ -13,8 +13,8 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
 ## 恢复设置 
 # defaults delete com.apple.desktopservices DSDontWriteNetworkStores
 
-
-
+## Apple dev
+$ sudo gem install cocoapods
 
 
 
