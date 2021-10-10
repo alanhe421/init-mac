@@ -18,6 +18,9 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
 ## Finer标题中显示路径
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool true; killall Finder
 
+## dock自动隐藏开启
+defaults write com.apple.Dock autohide -bool TRUE; killall Dock
+
 ## 恢复设置 
 # defaults delete com.apple.desktopservices DSDontWriteNetworkStores
 
