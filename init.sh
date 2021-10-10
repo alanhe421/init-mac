@@ -1,4 +1,7 @@
 
+# install brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
 # 安装字体图标
 brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
