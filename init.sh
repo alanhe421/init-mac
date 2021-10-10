@@ -59,4 +59,4 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config
 
 
 # npm常用工具
-npm i whistle
+npm i whistle -g
