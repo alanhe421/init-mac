@@ -10,6 +10,10 @@ brew install qlimagesize
 
 ## disable  .DS_Store
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
+
+## Finer标题中显示路径
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true; killall Finder
+
 ## 恢复设置 
 # defaults delete com.apple.desktopservices DSDontWriteNetworkStores
 
