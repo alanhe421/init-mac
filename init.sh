@@ -29,8 +29,6 @@ $ sudo gem install cocoapods
 
 
 
-
-
 # 映射iCloud配置
 
 ## wireshark配置
@@ -58,3 +56,7 @@ ln -s ～/.nvm/versions/node/v14.18.0/bin/node /usr/local/bin/node
 
 # karabiner改键
 ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config/karabiner
+
+
+# npm常用工具
+npm i whistle
