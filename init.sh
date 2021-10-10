@@ -40,7 +40,6 @@ ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/snipaste ~/.snipaste
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bash/.bashrc ~/.bashrc
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bash/.bash_profile ~/.bash_profile
 
-
 ## zsh配置
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/zsh/.zshrc ~/.zshrc
 
@@ -53,3 +52,6 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 # default node
 # nvm alias default nodeVersion
+
+# karabiner
+ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config/karabiner
