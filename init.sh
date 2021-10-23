@@ -9,8 +9,11 @@ brew install --cask font-hack-nerd-font
 # 安装软件
 brew install openconnect
 
-# 安装autojump
-brew install autojump
+# 手动安装autojump
+git clone git://github.com/wting/autojump.git
+cd autojump
+./install.py or ./uninstall.py
+
 
 ## disable  .DS_Store
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
