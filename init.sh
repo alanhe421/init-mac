@@ -8,6 +8,8 @@ brew install --cask font-hack-nerd-font
 
 # 安装软件
 brew install openconnect
+brew install tree
+
 
 # 手动安装autojump
 git clone git://github.com/wting/autojump.git
