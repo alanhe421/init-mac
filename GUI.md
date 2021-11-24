@@ -17,3 +17,7 @@
 
 ## TouchBar
 ![image](https://user-images.githubusercontent.com/9245110/143243028-4b237764-7cf5-4327-9a5f-46375a81c583.png)
+
+## disk access
+![image](https://user-images.githubusercontent.com/9245110/143265647-de01ac67-2282-4da0-a2f7-3e38fb35eb88.png)
+
