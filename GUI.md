@@ -13,3 +13,7 @@
 
 ## disable system keyboard shortcuts
 ![image](https://user-images.githubusercontent.com/9245110/139533270-a13b0d71-b4b6-403d-ae51-228409a38b36.png)
+
+
+## TouchBar
+![image](https://user-images.githubusercontent.com/9245110/143243028-4b237764-7cf5-4327-9a5f-46375a81c583.png)
