@@ -11,6 +11,7 @@ brew install openconnect
 brew install tree
 brew install wget
 brew install cask
+brew install telnet
 
 # 手动安装autojump
 git clone git://github.com/wting/autojump.git
