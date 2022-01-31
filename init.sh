@@ -50,6 +50,7 @@ ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bash/.bash_profile ~/
 
 ## zsh配置
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/zsh/.zshrc ~/.zshrc
+ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/zsh/.zsh.d ~/.zsh.d
 
 ## vi/vim配置
 ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/.vimrc ~/.vimrc
