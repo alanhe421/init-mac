@@ -72,3 +72,4 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config
 # npm常用工具
 npm i whistle -g
 npm i @bchatard/alfred-jetbrains -g 
+npm i local-web-server -g
