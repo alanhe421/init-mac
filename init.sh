@@ -58,6 +58,9 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/.vimrc ~/.vimrc
 ## Shell
 ln -s /Users/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bin ~/bin
 
+## iTerm2动态profile
+ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/iTerm2/iterm2-profile-template.json ~/Library/Application\ Support/iTerm2/DynamicProfiles/
+
 # plugin
 ## wechat
 curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install.sh | bash -s
