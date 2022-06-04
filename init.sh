@@ -36,6 +36,11 @@ $ sudo gem install cocoapods
 
 
 
+# 部分软链接
+
+ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
+
+
 # 映射iCloud配置
 
 ## wireshark配置
