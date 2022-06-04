@@ -84,3 +84,4 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config
 npm i whistle -g
 npm i @bchatard/alfred-jetbrains -g 
 npm i local-web-server -g
+npm i npm-check -g
