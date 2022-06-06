@@ -38,6 +38,8 @@ $ sudo gem install cocoapods
 
 # 部分软链接
 
+ln -s "/Users/alanhe/Library/Mobile Documents/com~apple~CloudDocs/conf" $HOME/_conf
+
 ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
 
 
