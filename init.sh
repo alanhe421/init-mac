@@ -67,7 +67,7 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/.vimrc ~/.vimrc
 ln -s /Users/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bin ~/bin
 
 ## iTerm2动态profile
-ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/iTerm2/iterm2-profile-template.json ~/Library/Application\ Support/iTerm2/DynamicProfiles/
+ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/iTerm2/iterm2-profile-template.json" "$HOME/Library/Application Support/iTerm2/DynamicProfiles/iterm2-profile-template.json"
 
 # plugin
 ## wechat
