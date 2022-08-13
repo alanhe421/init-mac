@@ -88,3 +88,10 @@ npm i whistle -g
 npm i @bchatard/alfred-jetbrains -g 
 npm i local-web-server -g
 npm i npm-check -g
+
+
+# Git配置
+git config --global --add push.default current
+
+
+
