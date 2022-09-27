@@ -39,7 +39,7 @@ $ sudo gem install cocoapods
 
 # 部分软链接
 
-ln -s "/Users/alanhe/Library/Mobile Documents/com~apple~CloudDocs/conf" $HOME/_conf
+ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs/conf" $HOME/_conf
 
 ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /usr/local/bin/code
 
@@ -50,7 +50,7 @@ ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /us
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/wireshark ~/.config/wireshark
 
 ## snipaste配置
-ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/snipaste ~/.snipaste
+ln -fs $HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/snipaste/config.ini" $HOME/.snipaste/config.ini
 
 ## bash配置
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bash/.bashrc ~/.bashrc
