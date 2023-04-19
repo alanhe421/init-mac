@@ -88,6 +88,7 @@ npm i whistle -g
 npm i @bchatard/alfred-jetbrains -g 
 npm i local-web-server -g
 npm i npm-check -g
+npm i @githubnext/github-copilot-cli -g 
 
 
 # Git配置
