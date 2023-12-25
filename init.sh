@@ -13,6 +13,8 @@ brew install wget
 brew install cask
 brew install telnet
 brew install imagemagick
+brew install openjdk
+
 
 # 手动安装autojump
 git clone git://github.com/wting/autojump.git
