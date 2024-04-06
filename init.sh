@@ -79,7 +79,9 @@ curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 # 缺省版本修改 nvm alias default nodeVersion
-ln -s ～/.nvm/versions/node/v14.18.0/bin/node /usr/local/bin/node
+ln -s ～/.nvm/versions/node/v18.16.1/bin/node /usr/local/bin/node
+ln -s ~/.nvm/versions/node/v18.16.1/bin/w2 /usr/local/bin/w2
+
 
 # karabiner改键
 ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config/karabiner
