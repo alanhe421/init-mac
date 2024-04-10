@@ -21,6 +21,7 @@ brew install openjdk
 brew install php
 brew install --cask snipaste
 brew install --cask 1password
+brew install --cask fantastical
 
 # 手动安装autojump
 git clone git://github.com/wting/autojump.git
