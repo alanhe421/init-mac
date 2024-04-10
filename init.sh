@@ -88,6 +88,9 @@ curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install
 ## nvm for nodejs @see https://github.com/nvm-sh/nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
+
+
+
 # 缺省版本修改 nvm alias default nodeVersion
 ln -s ～/.nvm/versions/node/v18.16.1/bin/node /usr/local/bin/node
 ln -s ~/.nvm/versions/node/v18.16.1/bin/w2 /usr/local/bin/w2
@@ -98,12 +101,7 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/karabiner ~/.config
 
 
 # npm常用工具
-npm i whistle -g
-npm i @bchatard/alfred-jetbrains -g 
-npm i local-web-server -g
-npm i npm-check -g
-npm i @githubnext/github-copilot-cli -g 
-
+npm i whistle @bchatard/alfred-jetbrains local-web-server npm-check -g 
 
 # Git配置
 git config --global --add push.default current
