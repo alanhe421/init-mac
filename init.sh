@@ -19,7 +19,8 @@ brew install telnet
 brew install imagemagick
 brew install openjdk
 brew install php
-
+brew install --cask snipaste
+brew install --cask 1password
 
 # 手动安装autojump
 git clone git://github.com/wting/autojump.git
