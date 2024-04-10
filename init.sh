@@ -52,7 +52,7 @@ ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" /us
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/wireshark ~/.config/wireshark
 
 ## snipaste配置
-ln -fs $HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/snipaste/config.ini" $HOME/.snipaste/config.ini
+ln -fs "$HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/snipaste/config.ini" $HOME/.snipaste/config.ini
 
 ## bash配置
 ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bash/.bashrc ~/.bashrc
