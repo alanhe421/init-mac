@@ -18,6 +18,7 @@ brew install cask
 brew install telnet
 brew install imagemagick
 brew install openjdk
+brew install php
 
 
 # 手动安装autojump
