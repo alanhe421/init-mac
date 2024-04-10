@@ -23,7 +23,9 @@ brew install openjdk
 # 手动安装autojump
 git clone git://github.com/wting/autojump.git
 cd autojump
-./install.py or ./uninstall.py
+./install.py
+# uninstall
+# ./uninstall.py
 
 
 ## disable  .DS_Store
