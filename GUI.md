@@ -9,7 +9,8 @@
 
 
 ## 1p
-![image](https://user-images.githubusercontent.com/9245110/138296381-945fe40c-3c85-4856-92e5-62f8fe55d02a.png)
+![image](https://github.com/alanhg/init-mac/assets/9245110/4fe55bb0-bbdc-4772-8743-3c3f0c25103d)
+![image](https://github.com/alanhg/init-mac/assets/9245110/ea779a4d-24dc-4a09-8840-bf02edd90da6)
 
 ## disable system keyboard shortcuts
 ![image](https://user-images.githubusercontent.com/9245110/139533270-a13b0d71-b4b6-403d-ae51-228409a38b36.png)
