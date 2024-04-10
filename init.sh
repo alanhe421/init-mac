@@ -81,14 +81,8 @@ ln -s /Users/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bin ~/bin
 ## iTerm2动态profile
 ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/iTerm2/iterm2-profile-template.json" "$HOME/Library/Application Support/iTerm2/DynamicProfiles/iterm2-profile-template.json"
 
-# plugin
-## wechat
-curl -o- -L https://raw.githubusercontent.com/lmk123/oh-my-wechat/master/install.sh | bash -s
-
 ## nvm for nodejs @see https://github.com/nvm-sh/nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-
-
 
 
 # 缺省版本修改 nvm alias default nodeVersion
