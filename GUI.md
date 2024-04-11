@@ -22,3 +22,9 @@
 ## disk access
 ![image](https://user-images.githubusercontent.com/9245110/143265647-de01ac67-2282-4da0-a2f7-3e38fb35eb88.png)
 
+
+## 欧陆词典
+
+取消所有热键
+
+<img width="662" alt="Screenshot 2024-04-11 at 10 32 23" src="https://github.com/alanhg/init-mac/assets/9245110/98f9122d-c48e-4e7b-9467-278ae3214b4d">
