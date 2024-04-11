@@ -1,6 +1,6 @@
 # GUI设定
 
-## hot corners
+## Hot Corners
 ![image](https://user-images.githubusercontent.com/9245110/136701337-93ba0c6c-eb14-4bdf-9b3b-30b57314c9b8.png)
 
 
@@ -28,3 +28,8 @@
 取消所有热键
 
 <img width="662" alt="Screenshot 2024-04-11 at 10 32 23" src="https://github.com/alanhg/init-mac/assets/9245110/98f9122d-c48e-4e7b-9467-278ae3214b4d">
+
+## Keyboard全局热键
+取消Apple的一堆恼人热键，我这里是把services的热键全部取消。
+
+<img width="827" alt="Screenshot 2024-04-11 at 21 15 57" src="https://github.com/alanhg/init-mac/assets/9245110/2bc3e43b-e2e2-4bb8-a3ee-40d34c730cbd">
