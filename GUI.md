@@ -14,7 +14,8 @@
 
 ## 禁用keyboard shortcuts
 取消Apple的一堆恼人热键，我这里是把services的热键全部取消。
-![image](https://user-images.githubusercontent.com/9245110/139533270-a13b0d71-b4b6-403d-ae51-228409a38b36.png)
+
+<img width="827" alt="Screenshot 2024-04-11 at 21 20 04" src="https://github.com/alanhg/init-mac/assets/9245110/2fe4f49e-efb5-41f5-9199-ae8e32b40fa1">
 
 <img width="827" alt="Screenshot 2024-04-11 at 21 15 57" src="https://github.com/alanhg/init-mac/assets/9245110/2bc3e43b-e2e2-4bb8-a3ee-40d34c730cbd">
 
