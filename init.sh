@@ -78,8 +78,8 @@ ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/zsh/.zsh.d ~/.zsh.d
 ## vi/vim配置
 ln -s ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/conf/.vimrc ~/.vimrc
 
-## Shell
-ln -s /Users/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bin ~/bin
+## 执行Shell，比如iterm2-trigger
+ln -sf ~/alanhe/Library/Mobile\ Documents/com~apple~CloudDocs/conf/bin/* ~/bin
 
 ## iTerm2动态profile
 ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/iTerm2/iterm2-profile-template.json" "$HOME/Library/Application Support/iTerm2/DynamicProfiles/iterm2-profile-template.json"
