@@ -21,15 +21,12 @@ brew install telnet
 brew install imagemagick
 brew install openjdk
 brew install php
+brew install autojump
 
 brew install --cask snipaste
 brew install --cask 1password
 brew install --cask fantastical
 brew install --cask keka
-
-
-
-brew install autojump
 
 ## disable  .DS_Store
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
