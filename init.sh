@@ -1,4 +1,6 @@
 
+# github资源需要终端代理
+
 # install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
