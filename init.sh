@@ -45,6 +45,9 @@ defaults write com.apple.finder _FXShowPosixPathInTitle -bool true; killall Find
 defaults write com.apple.Dock autohide -bool TRUE; killall Dock
 
 
+## 关闭输入法提示图标
+sudo defaults write /Library/Preferences/FeatureFlags/Domain/UIKit.plist redesigned_text_cursor -dict-add Enabled -bool NO
+
 
 ## 恢复设置 
 # defaults delete com.apple.desktopservices DSDontWriteNetworkStores
