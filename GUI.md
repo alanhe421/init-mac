@@ -14,7 +14,7 @@
 
 
 ## 微信WeChat
-
+去除微信的截图热键，使用snipaste
 ![image](https://github.com/user-attachments/assets/e1f9a5bd-36fc-49b3-8b3c-11fdb5ab1aa2)
 
 
