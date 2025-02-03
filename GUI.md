@@ -48,3 +48,6 @@
 
 <img width="662" alt="Screenshot 2024-04-11 at 10 32 23" src="https://github.com/alanhg/init-mac/assets/9245110/98f9122d-c48e-4e7b-9467-278ae3214b4d">
 
+## Watch解锁Mac
+![image](https://github.com/user-attachments/assets/1124a3aa-9680-4bbe-9f94-c144277486c7)
+
