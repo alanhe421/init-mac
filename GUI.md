@@ -12,6 +12,12 @@
 ![image](https://github.com/alanhg/init-mac/assets/9245110/4fe55bb0-bbdc-4772-8743-3c3f0c25103d)
 ![image](https://github.com/alanhg/init-mac/assets/9245110/ea779a4d-24dc-4a09-8840-bf02edd90da6)
 
+
+## 微信WeChat
+
+![image](https://github.com/user-attachments/assets/e1f9a5bd-36fc-49b3-8b3c-11fdb5ab1aa2)
+
+
 ## 禁用keyboard shortcuts
 取消Apple的一堆恼人热键，我这里是把services的热键全部取消。
 
