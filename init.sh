@@ -96,6 +96,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 nvm install 18
 
 # 缺省版本修改 nvm alias default nodeVersion
+sudo mkdir -p /usr/local/bin
 ln -s ～/.nvm/versions/node/v18.20.6/bin/node /usr/local/bin/node
 ln -s ~/.nvm/versions/node/v18.20.6/bin/w2 /usr/local/bin/w2
 
