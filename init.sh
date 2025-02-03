@@ -92,6 +92,8 @@ ln -s "$HOME/Library/Mobile Documents/com~apple~CloudDocs/conf/iTerm2/iterm2-pro
 ## nvm for nodejs @see https://github.com/nvm-sh/nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
+## 安装常用node版本，比如18
+nvm install 18
 
 # 缺省版本修改 nvm alias default nodeVersion
 ln -s ～/.nvm/versions/node/v18.16.1/bin/node /usr/local/bin/node
