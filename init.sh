@@ -27,13 +27,9 @@ brew install --cask 1password
 brew install --cask fantastical
 brew install --cask keka
 
-# 手动安装autojump
-git clone git://github.com/wting/autojump.git
-cd autojump
-./install.py
-# uninstall
-# ./uninstall.py
 
+
+brew install autojump
 
 ## disable  .DS_Store
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
