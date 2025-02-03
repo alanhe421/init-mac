@@ -1,5 +1,14 @@
 # GUI设定
 
+
+## Finder
+
+显示用户主目录
+
+![image](https://github.com/user-attachments/assets/f6084759-3fc8-41e3-8414-ce054e137071)
+
+
+
 ## Hot Corners
 ![image](https://user-images.githubusercontent.com/9245110/136701337-93ba0c6c-eb14-4bdf-9b3b-30b57314c9b8.png)
 
