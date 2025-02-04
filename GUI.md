@@ -10,7 +10,8 @@
 
 
 ## Hot Corners
-![image](https://user-images.githubusercontent.com/9245110/136701337-93ba0c6c-eb14-4bdf-9b3b-30b57314c9b8.png)
+关闭热角触发，避免误操作
+![image](https://github.com/user-attachments/assets/d85bacb8-08d6-4e55-a234-23dbbe475302)
 
 
 ## Spotlight Privacy
