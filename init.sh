@@ -22,6 +22,7 @@ brew install imagemagick
 brew install openjdk
 brew install php
 brew install autojump
+brew install ffmpeg
 
 brew install --cask snipaste
 brew install --cask 1password
