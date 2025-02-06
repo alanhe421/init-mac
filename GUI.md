@@ -1,5 +1,10 @@
 # GUI设定
 
+## Keyboard热键
+
+去掉所有默认的热键，直接取消勾选即可。
+![image](https://github.com/user-attachments/assets/6597aac6-ea74-4835-a8f0-2e24eeb5f0e4)
+
 
 ## Finder
 
